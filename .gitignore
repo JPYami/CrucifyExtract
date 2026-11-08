@@ -1,0 +1,10 @@
+# build output
+bin/
+obj/
+dist/
+.vs/
+*.user
+*.suo
+
+# local logs
+*.log
